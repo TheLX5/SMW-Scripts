@@ -208,7 +208,6 @@ endif
 if !sa1 == 0
 	jsr load_animated		;draws the animated gears in the background
 else	
-	lda $3FFFFF
 	jsr load_animated_sa1
 endif	
 
