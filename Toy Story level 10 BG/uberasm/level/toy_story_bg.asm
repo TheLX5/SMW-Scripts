@@ -5,8 +5,6 @@
 ;# This code recreates the pseudo extra layers effect from Toy Story's level 10 in SMW.
 ;# It's REALLY slow and may cause performance issues.
 ;#
-;# There's no SA-1 version.
-;#
 
 !timer				= $7F9C80		; Timer for the gears' animation.
 							; 1 byte.
