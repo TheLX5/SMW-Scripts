@@ -10,6 +10,7 @@ Notes:
 - snes9x 1.60 fails to draw the diagonal metal beams on SA-1 enhanced ROMs. Please use a more accurate emulator. More info: https://twitter.com/TheLX5/status/1249161864178741249
 - The BG GFX requires a noticeable amount of data
 - Non-SA1 enhanced ROMs may require an external patch in order to not mess the overworld. https://www.smwcentral.net/?p=section&a=details&id=19580
+- It may generate black bars at the top of the screen due to the NMI routine uploading a 64x64 image every frame.
 
 ----------------------------------------
 
